@@ -1,8 +1,8 @@
 <?php
 $host='localhost';
 $db='quotes'; //rename this to the associate database name
-$user='didene';
-$pass='dztemp213';
+$user='root'; //same here
+$pass=''; //yup, again xD
 $charset='utf8mb4';
 
 $dsn='mysql:host=localhost;dbname=quotes;';
